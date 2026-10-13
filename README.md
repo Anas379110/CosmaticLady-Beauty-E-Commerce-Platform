@@ -1,21 +1,20 @@
-# Cosmetic Lady — منصة تجميل إلكترونية
-**Cosmetic Lady — Beauty E-Commerce Platform** · التصنيف: منصة تجارية
+# Cosmetic Lady — Beauty E-Commerce Platform
+**Cosmetic Lady — Beauty E-Commerce Platform** · Category: Commercial platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — does not include source code.
 
-## نبذة عن المشروع
-منصة تجارة إلكترونية متخصصة بمواد التجميل للسوق السوري، بواجهة عربية RTL كاملة.
+## Project summary
+An e-commerce platform specialized in cosmetics for the Syrian market, with a full Arabic RTL interface.
 
-## أبرز النقاط
-- مصادقة وقاعدة بيانات عبر Supabase مع Prisma ORM
-- دفع محلي عبر شام كاش مع خيار الدفع عند الاستلام
-- واجهة عربية RTL كاملة مع سلة شراء ولوحة إدارة منتجات
+## Highlights
+- Authentication and database via Supabase with Prisma ORM
+- Local payments via Sham Cash with an option for cash on delivery
+- Full Arabic RTL interface with shopping cart and product administration panel
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء المنصة والواجهة والخلفية وقاعدة البيانات.
+## Role
+Business platforms developer: requirements analysis and building the platform, frontend, backend, and database.
 
-## التقنيات المستخدمة
+## Technologies used
 Next.js, TypeScript, Supabase, Prisma, PostgreSQL, Tailwind CSS, Zod
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — Cosmetic Lady — منصة تجميل إلكترونية
+# 🛠️ Technologies used — Cosmetic Lady — Beauty E-Commerce Platform
 
 - Next.js
 - TypeScript
